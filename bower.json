@@ -1,0 +1,19 @@
+{
+  "name": "beloitmusic",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "metaWise85 <metawise85@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/metaWise85/beloitmusic",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
